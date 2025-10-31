@@ -5,8 +5,8 @@
 
 ## Documentación
 
-### 1. [Flujos](/SD3-proyecto-integrador/G5/flujos/flows.json)
+### 1. [Flujos](/G5/flujos/flows.json)
 
-### 2. [Programación micropython](/SD3-proyecto-integrador/G5/micropython/test.py)
+### 2. [Programación micropython](/G5/micropython/test.py)
 
 
